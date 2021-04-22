@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Heading
+title: Wasssuppp AM Team!
 type: about
 ---
 
